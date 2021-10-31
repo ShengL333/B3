@@ -13,6 +13,7 @@ W/S+E:  run from idle or from walking
 W+E+Space: jump while running
 W+Space: jump while walking
 Scroll: zoom in and zoom out the camera view
+You can also adjust the angle of the camera by holding the right-click of the mouse.
 
 Part II: 
 
